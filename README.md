@@ -1,4 +1,5 @@
-<img width="1024" height="640" alt="image" src="https://github.com/user-attachments/assets/ff228712-8804-408d-b26d-964303aac1f0" />
+<img width="1024" height="640" alt="image" src="https://github.com/user-attachments/assets/6c31f7f1-148f-4722-9848-0814b4aaed90" />
+
 <h1 align="center">Hi 👋, I'm akshay</h1>
 <h3 align="center">A passionate full stack from India</h3>
 
